@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/drawable/highlighted_box.xml" value="0.2703125" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/drawable/normal_box.xml" value="0.2703125" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/activity_leaderboard.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/activity_main2.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/activity_main_menu.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/level1.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/level2.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/level3.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/level4.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/level5.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/score.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/1904313ChooMinXi/app/src/main/res/layout/score2.xml" value="0.22418478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2536231884057971" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
